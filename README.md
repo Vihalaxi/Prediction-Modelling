@@ -8,6 +8,7 @@
 
 Link: https://flight-price-prediction-api.herokuapp.com/
 
+![screenshot](https://user-images.githubusercontent.com/94740029/148578576-98e18ec2-db9d-49a8-84e6-41ef7af6c06c.png)
 
 ## Overview
 This is a simple Prediction Model used to predict the flight prices. The trained model takes the Departure Date,Source and Destination as input and predict the price of the flight.
